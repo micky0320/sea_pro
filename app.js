@@ -6,7 +6,7 @@ var app = http.createServer(function(request, response) {
     response.writeHead(200, {
         "Content-Type": "text/plain"
     });
-    response.end("Hello hyddd!\n");
+    response.end("Hello hydddyyy!\n");
 });
 
 // 启动Server
