@@ -1,0 +1,38 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yy"
+  ],
+  "author": "youyuan",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "modify-filename": "^1.1.0",
+    "object-assign": "^4.0.1",
+    "rev-hash": "^1.0.0",
+    "rev-path": "^1.0.0",
+    "sort-keys": "^1.0.0",
+    "through2": "^2.0.0",
+    "vinyl-file": "^1.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "del": "^2.2.0",
+    "fs": "0.0.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify": "0.0.7",
+    "gulp-sass": "^2.2.0",
+    "http": "0.0.0",
+    "rename": "^1.0.3",
+    "tiny-lr": "^0.2.1",
+    "url": "^0.11.0"
+  }
+}
